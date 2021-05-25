@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 /*import ShowHide from "./ShowHide";*/
-import ControlInputs from "./Forms";
+import ControlInputs from "./controlledInputs";
 import reportWebVitals from './reportWebVitals';
 
 
